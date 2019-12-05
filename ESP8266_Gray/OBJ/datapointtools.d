@@ -1,0 +1,9 @@
+..\obj\datapointtools.o: ..\HARDWARE\Utils\dataPointTools.c
+..\obj\datapointtools.o: ..\HARDWARE\Utils\dataPointTools.h
+..\obj\datapointtools.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\datapointtools.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\datapointtools.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\datapointtools.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+..\obj\datapointtools.o: ..\HARDWARE\Utils\common.h
+..\obj\datapointtools.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\datapointtools.o: D:\MDK\ARM\ARMCC\Bin\..\include\ctype.h
